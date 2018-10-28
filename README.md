@@ -2,6 +2,7 @@
 By Altamish Mahomed 2018
 
 > Generates and automatically copies GUIDs to your clipboard. 
+> Requested by work colleague, who wanted quick access to a persistent tool for this purpose.
 
 * Left click tray icon to completely hide/restore. 
 * Right click tray icon for context menu
